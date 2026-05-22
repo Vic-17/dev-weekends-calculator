@@ -1,14 +1,14 @@
 /* Custom properties for easy theme management */
 :root {
-  --primary: #0d9488;
-  --primary-hover: #0f766e;
+  --primary: #c01b44;
+  --primary-hover: #f87aa0;
   --bg-main: #f0fdfa;
-  --bg-card: #ffffff;
-  --bg-display: #111827;
+  --bg-card: #ffc8d9;
+  --bg-display: #e43351;
   --text-main: #1f2937;
-  --text-light: #6b7280;
+  --text-light: #010a1d;
   --text-display: #f9fafb;
-  --text-accent: #2dd4bf;
+  --text-accent: #1d0208;
   --error: #ef4444;
   --border: #e5e7eb;
 }
@@ -90,7 +90,7 @@ label {
 
 .currency-symbol {
   position: absolute;
-  left: 1rem;
+  left: 0.5rem;
   color: var(--text-light);
   font-weight: 500;
 }
