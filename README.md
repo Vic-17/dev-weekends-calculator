@@ -3,7 +3,7 @@
 A clean, responsive single-page web application that calculates tips and splits bills in real-time with inline validation. Built using native web fundamentals for the Dev Weekends Fellowship 2026 assessment.
 
 ### Live Deployed URL
-* [Insert your GitHub Pages link here once it is live!]
+(https://vic-17.github.io/dev-weekends-calculator/)
 
 ### How to Run Locally
 1. Clone this repository to your machine.
