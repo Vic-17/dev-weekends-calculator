@@ -1,6 +1,11 @@
 # Assessment Answers — Tip Calculator
 
 ### 1. How to run
+
+**Live Deployed URL:**
+* [(https://vic-17.github.io/dev-weekends-calculator/)](https://vic-17.github.io/dev-weekends-calculator/)
+
+**Running Locally:**
 This project uses zero external dependencies or package managers, making it safe to run on any computer.
 1. Download or clone this directory.
 2. Double-click the `index.html` file to run it locally inside your preferred browser.
